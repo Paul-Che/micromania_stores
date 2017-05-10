@@ -1,0 +1,21 @@
+{
+  "name": "employees",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.4",
+    "meteor-node-stubs": "~0.2.4",
+    "react": "^15.5.4",
+    "react-addons-pure-render-mixin": "^15.5.2",
+    "react-csv": "^1.0.8",
+    "react-dom": "^15.5.4",
+    "react-gmaps": "^1.5.0"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}
