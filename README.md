@@ -1,0 +1,1 @@
+# micromania_stores
